@@ -1,7 +1,7 @@
 # Final Assignment
 
 This repository contains files for the Git and GitHub final assignment.
-This line was added to fix a typo.
+This line was added to fix a typo.This line was added to fix another typo.
 
 ## Files Included
 
