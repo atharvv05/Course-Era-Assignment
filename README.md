@@ -2,6 +2,7 @@
 
 This repository contains files for the Git and GitHub final assignment.
 This line was added to fix a typo.
+This is an extra additional line included for merging.
 
 ## Files Included
 
